@@ -1,17 +1,17 @@
 remote_theme: minicomp/ed
 
 # Setup
-title:               Emperor of the Moon
-tagline:             'Bryn Mawr College, ARTT B243'
-description:         'Research for the Spring 2020 production of Aphra Behn's *Emperor of the Moon*.'
-url:                 'https://digbmc.github.io'
-baseurl:             '/emperor-moon'
+title: Emperor of the Moon
+tagline: 'Bryn Mawr College, ARTT B243'
+description: 'Research for the Spring 2020 production of Emperor of the Moon by Aphra Behn.'
+url: 'https://digbmc.github.io'
+baseurl:  '/emperor-moon'
 
 # About/contact
-'''
-author:
-  name:
-'''
+
+# author:
+#  name:
+
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
@@ -32,21 +32,18 @@ collections:
 markdown: kramdown
 
 kramdown:
-  auto_ids:       true
-  footnote_nr:    1
-  entity_output:  as_char
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
   footnote_backlink: "&#x21a9;&#xfe0e;"
-  toc_levels:     1..6
-  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
 # Exclusions from the final site
 exclude:
   - optional
   - vendor
-
-# Theme
-theme: "ed."
 
 # Prose
 
