@@ -1,0 +1,110 @@
+remote_theme: minicomp/ed
+
+# Setup
+title:               Emperor of the Moon
+tagline:             'Bryn Mawr College, ARTT B243'
+description:         'Research for the Spring 2020 production of Aphra Behn's *Emperor of the Moon*.'
+#url:                 'http://digbmc.github.io'
+#baseurl:             '/'
+
+# About/contact
+'''
+author:
+  name:
+'''
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: cyan
+
+permalink: pretty
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  articles:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+
+# Theme
+theme: "ed."
+
+# Prose
+
+prose:
+  rooturl: '_articles'
+  #siteurl: 'http://prose.github.io/starter/'
+  #relativeLinks: 'http://prose.github.io/starter/links.jsonp'
+  media: 'media'
+  metadata:
+    _articles:
+      - name: "user"
+        field:
+          element: "hidden"
+          value: CURRENT_USER
+      - name: "Author"
+        field:
+          element: "hidden"
+          value: ""
+      - name: "category"
+        field:
+          element: "hidden"
+          value: "article"
+      - name: "layout"
+        field:
+          element: "select"
+          label: "Type of post"
+          value: "page"
+          options:
+            - name: "drama"
+              value: "drama"
+            - name: "default"
+              value: "default"
+            - name: "post"
+              value: "post"
+            - name: "page"
+              value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "splash"
+        field:
+          element: "text"
+          label: "Splash image"
+          value: ""
+    _posts/static:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "page"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+          value: ""
+      - name: "permalink"
+        field:
+          element: "text"
+          label: "Permalink"
+          value: ""
