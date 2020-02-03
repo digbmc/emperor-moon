@@ -4,8 +4,8 @@ remote_theme: minicomp/ed
 title:               Emperor of the Moon
 tagline:             'Bryn Mawr College, ARTT B243'
 description:         'Research for the Spring 2020 production of Aphra Behn's *Emperor of the Moon*.'
-#url:                 'http://digbmc.github.io'
-#baseurl:             '/'
+url:                 'https://digbmc.github.io'
+baseurl:             '/emperor-moon'
 
 # About/contact
 '''
