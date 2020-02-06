@@ -2,8 +2,7 @@
 layout: drama
 title: Emperor of the Moon
 author: Aphra Behn
-author: Molly Ward
-# source:
+editor: Molly Ward
 
 ---
 (excerpt)
@@ -16,5 +15,3 @@ MOPSOPHIL.
 See Madam where your trusty Roger comes. (*Enter SCARAMOUCH, with letters, peeping on all sides*) You may advance, and fear none but your Friends.
 
 SCARAMOUCH. Away and keep the door.
-
-![Engraving of Scaramouche](/media/Scaramouche-Fiorilli.jpg)
