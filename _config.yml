@@ -48,7 +48,7 @@ exclude:
 # Prose
 
 prose:
-  rooturl: '_articles'
+  rooturl: '_posts'
   siteurl: 'http://digbmc.github.io/emperor-moon/'
   relativeLinks: 'http://digbmc.github.io/emperor-moon/links.jsonp'
   media: 'media'
@@ -67,9 +67,9 @@ prose:
           element: "hidden"
           value: "blog"
       - name: "layout"
-          field:
-            element: "hidden"
-            value: "post"
+        field:
+          element: "hidden"
+          value: "post"
       - name: "title"
         field:
           element: "text"
