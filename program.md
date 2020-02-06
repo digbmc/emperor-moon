@@ -1,6 +1,6 @@
 ---
 layout: page
-title: playbill
+title: Playbill
 #author: Aphra Behn
 #editor: Molly Ward
 
