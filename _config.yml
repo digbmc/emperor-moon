@@ -25,7 +25,7 @@ encoding: utf-8
 
 # Collections for texts
 collections:
-  articles:
+  posts:
     output: true
 
 # Markdown specs
@@ -49,11 +49,11 @@ exclude:
 
 prose:
   rooturl: '_articles'
-  siteurl: 'https://digbmc.github.io/emperor-moon/'
-  relativeLinks: 'https://digbmc.github.io/emperor-moon/links.jsonp'
+  siteurl: 'http://digbmc.github.io/emperor-moon/'
+  relativeLinks: 'http://digbmc.github.io/emperor-moon/links.jsonp'
   media: 'media'
   metadata:
-    _articles:
+    _posts:
       - name: "user"
         field:
           element: "hidden"
@@ -65,21 +65,11 @@ prose:
       - name: "category"
         field:
           element: "hidden"
-          value: "article"
+          value: "blog"
       - name: "layout"
-        field:
-          element: "select"
-          label: "Type of post"
-          value: "default"
-          options:
-            - name: "drama"
-              value: "drama"
-            - name: "default"
-              value: "default"
-            - name: "post"
-              value: "post"
-            - name: "page"
-              value: "page"
+          field:
+            element: "hidden"
+            value: "post"
       - name: "title"
         field:
           element: "text"
