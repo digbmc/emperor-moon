@@ -58,7 +58,7 @@ prose:
         field:
           element: "hidden"
           value: CURRENT_USER
-      - name: "Author"
+      - name: "author"
         field:
           element: "hidden"
           value: ""

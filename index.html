@@ -1,0 +1,26 @@
+---
+layout: default
+title: "About"
+---
+<div class="about">
+  <h1>About</h1>
+  <h2><a href=""><i>Emperor of the Moon</i></a></h2>
+  <p>Written by Aphra Behn; adapted for the stage by Molly Ward</p>
+
+</div>
+
+<hr>
+
+<div class="toc">
+    <h2>Dramaturgy</h2>
+  <ul class="texts">
+  {% for item in site.articles %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        <i>{{ item.title }}</i>, by {{item.author}}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
