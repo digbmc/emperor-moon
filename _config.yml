@@ -70,7 +70,7 @@ prose:
         field:
           element: "select"
           label: "Type of post"
-          value: "page"
+          value: "default"
           options:
             - name: "drama"
               value: "drama"
