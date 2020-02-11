@@ -7,7 +7,7 @@ toc:
   - Prologue
   - Act I Scene I
   - Act I Scene II
-
+published: true
 ---
 
 A new adaptation by Molly Ward, as performed April 2020 at Bryn Mawr College[^fn1]
@@ -20,7 +20,6 @@ A new adaptation by Molly Ward, as performed April 2020 at Bryn Mawr College[^fn
 
 ELARIA: (sings, plays)
 
-...
 > - A Curse upon that faithless Maid,
 > - Born free as Man to Love and Range,
 > - Till Nobler Nature Custom changed.
