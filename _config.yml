@@ -5,7 +5,7 @@ title: Emperor of the Moon
 tagline: 'Bryn Mawr College, ARTT B243'
 description: 'Research for the Spring 2020 production of Emperor of the Moon by Aphra Behn.'
 url: 'https://digbmc.github.io'
-baseurl:  '/emperor-moon'
+baseurl:  /emperor-moon
 
 # About/contact
 
@@ -50,7 +50,7 @@ exclude:
 prose:
   rooturl: '_posts'
   siteurl: 'http://digbmc.github.io/emperor-moon/'
-  relativeLinks: 'http://digbmc.github.io/emperor-moon/links.jsonp'
+#  relativeLinks: 'http://digbmc.github.io/emperor-moon/links.jsonp'
   media: 'media'
   ignore:
     - _config.yml
