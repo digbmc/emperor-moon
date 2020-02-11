@@ -11,5 +11,3 @@ author: Cecilia Moure
 
 Aphra Behn, The Translator’s Preface in A Discovery of New Worlds (1688)
 
-
-![Contemporary Drawing of Aphra Behn]({{site.baseurl}}/_posts/Aphra_Behn.jpg)
