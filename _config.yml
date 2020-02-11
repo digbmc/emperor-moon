@@ -52,6 +52,9 @@ prose:
   siteurl: 'http://digbmc.github.io/emperor-moon/'
   relativeLinks: 'http://digbmc.github.io/emperor-moon/links.jsonp'
   media: 'media'
+  ignore:
+    - _config.yml
+    - LICENSE
   metadata:
     _posts:
       - name: "user"
@@ -60,7 +63,8 @@ prose:
           value: CURRENT_USER
       - name: "author"
         field:
-          element: "hidden"
+          element: "text"
+          label: "Author of this post"
           value: ""
       - name: "category"
         field:
@@ -68,7 +72,8 @@ prose:
           value: "blog"
       - name: "layout"
         field:
-          element: "hidden"
+          element: "text"
+          label: "Layout"
           value: "post"
       - name: "title"
         field:
@@ -80,3 +85,9 @@ prose:
           element: "text"
           label: "Splash image"
           value: ""
+      - name: "published"
+        field:
+          element: "button"
+          label: "Publish this post?"
+          on: true
+          off: false
