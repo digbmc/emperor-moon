@@ -2,8 +2,8 @@ remote_theme: minicomp/ed
 
 # Setup
 title: Emperor of the Moon
-tagline: 'Bryn Mawr College, ARTT B243'
-description: 'Research for the Spring 2020 production of Emperor of the Moon by Aphra Behn.'
+tagline: 'Research and production notes, BMC Spring 2020'
+description: 'Aphra Behn's The Emperor of the Moon' as performed at Bryn Mawr College, April 2020.'
 url: 'https://digbmc.github.io'
 baseurl:  /emperor-moon
 
