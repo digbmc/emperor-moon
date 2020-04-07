@@ -22,7 +22,7 @@ By prioritizing narrative and the women’s roles in her play, Behn succeeds in 
 
 
 
-Bibliography
+### Bibliography
 
 
 “Arlequin Empereur Dans La Lune, Comédie Par Monsieur D***.” _Gallica_, Bibliothèque Nationale De France, 9 Dec.
