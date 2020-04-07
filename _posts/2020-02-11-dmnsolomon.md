@@ -3,7 +3,7 @@ published: true
 layout: default
 author: Devasha Solomon
 ---
-## _The Emperor of the Moon_ and __Arlequin, Empereur dans la lune__
+## _The Emperor of the Moon_ and _Arlequin, Empereur dans la lune_
 
 While our play at Bryn Mawr is an adaptation of Aphra Behn’s _The Emperor of the Moon_, her original play is largely influenced by the French play _Arlequin, Empereur dans la lune_ by Anne Mauduit de  Fatouville. Though Behn used the French play so much as to border on having copied the piece, she does openly announce her influence in the prologue, writing
     
