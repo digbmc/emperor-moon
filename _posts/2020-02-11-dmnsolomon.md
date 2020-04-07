@@ -18,7 +18,12 @@ A second key difference between the two plays is mentioned by Behn in the prolog
 
 By prioritizing narrative and the women’s roles in her play, Behn succeeds in creating a clear distinction between her _The Emperor of the Moon_ and Anne Mauduit de  Fatouville’s _Arlequin, Empereur dans la lune_. These changes mark a unique take on the _commedia dell’arte_ tradition that is heavily influenced by Aphra Behn’s historical moment and, likely, her own personal values and beliefs.
 
+
+
+
+
 Bibliography
+
 
 “Arlequin Empereur Dans La Lune, Comédie Par Monsieur D***.” _Gallica_, Bibliothèque Nationale De France, 9 Dec.
     2016, [gallica.bnf.fr/ark:/12148/bpt6k853786v/f12.image](gallica.bnf.fr/ark:/12148/bpt6k853786v/f12.image).
